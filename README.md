@@ -1,2 +1,18 @@
-# KZ-WH
-KZ-WH is a unique webhook sender designed for a specific Discord chat where messages can only be sent through this program and seen yourself through discord. With a simple console design, KZ-WH sends messages to a specific discord channel where by default you cannot send messages.
+### KZ-WH
+![KZ-WHlogo](https://github.com/user-attachments/assets/d041cff8-24f9-4e21-bdfd-1cd9ec2350ec)
+
+## 🚀 Features  
+
+- 📩 **Send Messages** – Communicate in the designated Discord chat through webhooks. No restrictions on message content.  
+- 📁 **Send Files** – Attach files up to **10MB** (Discord’s limit).  
+- 🕶️ **Anonymized Messaging** – Messages are sent without revealing the sender's identity.  
+- ⚡ **Lightweight & Simple** – A fun project designed for easy use and quick execution.  
+- 🖱️ **Easy Installation** – Just **two clicks**: install the `.exe` and open it!  
+- 🔒 **Secured Webhook** – The Python code is **obfuscated and compiled into an `.exe`**, making it difficult for random users to extract the webhook. It **cannot be easily retrieved or viewed using tools like uncoverit.org**.  
+
+ 
+
+![image](https://github.com/user-attachments/assets/79396249-7764-403a-8899-caa0cab7ff94)
+
+
+![image](https://github.com/user-attachments/assets/e02f81b0-fafb-4d5d-96b5-ca8e7b29968c)
