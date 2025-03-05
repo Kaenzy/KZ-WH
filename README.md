@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/d041cff8-24f9-4e21-bdfd-1cd9ec2350ec" width="300">  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d041cff8-24f9-4e21-bdfd-1cd9ec2350ec" width="300">
+</p>  
 
 ## 🚀 Features  
 
