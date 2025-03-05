@@ -3,7 +3,7 @@
 
 ## 🚀 Features  
 
-- 📩 **Send Messages** – Communicate in the designated Discord chat through webhooks. No restrictions on message content.  
+- 📩 **Send Messages** – Communicate in the designated Discord chat through a webhook. No restrictions on message content.  
 - 📁 **Send Files** – Attach files up to **10MB** (Discord’s limit).  
 - 🕶️ **Anonymized Messaging** – Messages are sent without revealing the sender's identity.  
 - ⚡ **Lightweight & Simple** – A fun project designed for easy use and quick execution.  
